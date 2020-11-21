@@ -1,7 +1,7 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
-title: "Jayvir's Blog"
+title: "Jayvir Rathi"
 theme: "toha"
 
 # Manage languages
@@ -23,11 +23,16 @@ enableEmoji: true
 
 # Site parameters
 params:
-  # GitHub repo URL of your site
   gitRepo: https://github.com/Jayvirrathi/Jayvirrathi.github.io
+  background: "images/background.jpg"
+  copyright: Jayvir Rathi © 2020
+  logo:
+    main: "images/background.jpg"
+    inverted: "images/background.jpg"
+    favicon: "images/background.jpg"
 
   # specify whether you want to write some blog posts or not
-  enableBlogPost: true
+  enableBlogPost: false
 
   # specify whether you want to show Table of Contents in reading page
   enableTOC: true

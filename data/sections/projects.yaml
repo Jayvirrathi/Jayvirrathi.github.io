@@ -1,0 +1,158 @@
+# section information
+section:
+  name: Projects
+  id: Projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Nodejs
+  filter: "nodejs"
+- name: Deno
+  filter: "deno"
+- name: Reactjs
+  filter: "reactjs"
+- name: Docker
+  filter: "docker"
+- name: Kubernetes
+  filter: "kubernetes"
+- name: GitHub Actions
+  filter: "github-actions"
+
+# your projects
+projects:
+
+- name: create-node-express-api
+  logo: images/skills/nodejs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/create-node-express-api 
+  summary: "Cli for Basic Project Setup"
+  tags: ["nodejs"]
+  #timeline: ""
+  #url: "" 
+  
+- name: create-node-express-api
+  logo: images/skills/nodejs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/create-node-express-api 
+  summary: "Cli for Basic Project Setup"
+  tags: ["nodejs"]
+
+- name: js-actions
+  logo: images/skills/github-actions.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/js-actions 
+  summary: js actions
+  tags: ["nodejs","github-actions"]
+
+- name: mern-docker
+  logo: images/skills/nodejs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/mern-docker 
+  summary: "mern-docker"
+  tags: ["nodejs", "reactjs", "docker"]
+
+- name: microservices
+  logo: images/skills/nodejs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/microservices
+  summary: "NodeJS Micro Services With Docker"
+  tags: ["nodejs", "reactjs", "kubernetes", "docker"]
+
+- name: node-express-api-starter
+  logo: images/skills/nodejs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/node-express-api-starter 
+  summary: "Node JS Express API Example"
+  tags: ["nodejs"]
+
+- name: node-express-es6-api-starter
+  logo: images/skills/nodejs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/node-express-es6-api-starter
+  summary: "Node JS Express Babel API Example"
+  tags: ["nodejs"]
+
+- name: node-express-typescript-api-starter
+  logo: images/skills/typescript.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/node-express-typescript-api-starter
+  summary: "Node TypeScript Example"
+  tags: ["nodejs", "typescript"]
+
+- name: nodejs-docker-kubernetes
+  logo: images/skills/nodejs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/nodejs-docker-kubernetes 
+  summary: "Nodejs Docker Kubernetes"
+  tags: ["nodejs", "kubernetes", "docker"]
+
+- name: nodejs-microservice
+  logo: images/skills/nodejs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/nodejs-microservice 
+  summary: "Npm Package for nodejs microservice Repo Initial Setup"
+  tags: ["nodejs"]
+
+- name: nodejs-prometheus-grafana
+  logo: images/skills/nodejs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/nodejs-prometheus-grafana
+  summary: "Nodejs Prometheus Grafana"
+  tags: ["nodejs", "kubernetes", "docker"]
+
+- name: react-docker
+  logo: images/skills/react.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/react-docker 
+  summary: "react docker"
+  tags: ["reactjs", "docker"]
+
+
+- name: deno-docker-kubernetes
+  logo: images/skills/deno.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/deno-docker-kubernetes 
+  summary: "Deno Docker Kubernetes"
+  tags: ["deno", "kubernetes", "docker"]
+
+- name: django-docker
+  logo: images/skills/django.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/django-docker  #summary: django docker
+  tags: ["django", "docker"]
+
+- name: flask-docker
+  logo: images/skills/flask.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/flask-docker 
+  summary: "flask docker"
+  tags: ["flask", "docker"]
+
+- name: go-actions
+  logo: images/skills/go.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/go-actions 
+  summary: go actions
+  tags: ["go", "github-actions"]
+
+- name: nestjs-graphql-mongo-example
+  logo: images/skills/nestjs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/nestjs-graphql-mongo-example
+  summary: "nestjs-graphql-mongo-example"
+  tags: ["nestjs", "graphql","nodejs"]
+
+- name: nestjs-task
+  logo: images/skills/nestjs.svg
+  role: Contributor
+  repo: https://github.com/Jayvirrathi/nestjs-task
+  summary: "nestjs-task"
+  tags: ["nestjs", "graphql","nodejs"]
+

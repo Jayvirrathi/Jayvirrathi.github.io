@@ -1,0 +1,71 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+# designation: Software Engineer
+# # your company information
+# company:
+#   name: Example Co.
+#   url: "https://www.example.com"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate software engineer with 4 months  of working experience.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/Jayvirrathi"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/Jayvirrathi"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/Jayvirrathi"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/Jayvirrathi"
+
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/Jayvirrathi"
+
+- name: GitHub Sponsors
+  icon: "fab fa-github-alt"
+  url: "https://github.com/sponsors/Jayvirrathi"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Teamwork
+  percentage: 80
+  color: blue
+- name: Hard Working
+  percentage: 85
+  color: yellow
+- name: Communication
+  percentage: 75
+  color: green
+- name: Leadership
+  percentage: 75
+  color: pink
+- name: Nodejs
+  percentage: 85
+  color: green
+- name: Reactjs
+  percentage: 70
+  color: blue

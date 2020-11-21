@@ -1,0 +1,7 @@
+# Jetbrains
+/.idea
+/*.iml
+
+# Hugo
+/public
+resources/
