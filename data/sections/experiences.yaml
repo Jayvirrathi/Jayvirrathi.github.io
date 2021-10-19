@@ -11,29 +11,3 @@ section:
 
 # Your experiences
 experiences:
-- company:
-    name: Innovify
-    location: Ahmedabad
-  positions:
-  - designation: Software Engineer
-    start: Jul 2020
-    end: Oct 2020
-    responsibilities:
-    - Restful APIs using Nodejs Framework.
-    - Reviewing and debugging the existing code.
-    - Unit and integration testing of APIs with Code Coverage.
-    - Enhancing JavaScript skills by designing and developing API.
-
-- company:
-    name: Innovify
-    location: Ahmedabad
-  positions:
-  - designation: Intern Software Engineer
-    start: Jan 2020
-    end: Jun 2020
-    responsibilities:
-    - Worked on Restful APIs using Nodejs Framework in live project.
-    - Design Frontend using ReactJS in live project.
-    - Reviewing and debugging the existing code.
-    - Unit and integration testing of APIs with Code Coverage using Sonar.
-    - Communicating with the design team and understanding the requirements.
