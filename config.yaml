@@ -24,7 +24,7 @@ enableEmoji: true
 params:
   gitRepo: https://github.com/Jayvirrathi/Jayvirrathi.github.io
   background: "images/background.jpg"
-  copyright: Jayvir Rathi © 2020
+  copyright: Jayvir Rathi © 2021
   logo:
     main: "images/background.jpg"
     inverted: "images/background.jpg"

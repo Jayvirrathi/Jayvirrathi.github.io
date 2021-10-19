@@ -11,3 +11,12 @@ section:
 
 # Your experiences
 experiences:
+- company:
+    name: Github
+    location: India
+  positions:
+  - designation: Open Source 
+    start: Jan 2020
+    end: Jan 2100
+    responsibilities:
+    - Contribution in Open Source Project
